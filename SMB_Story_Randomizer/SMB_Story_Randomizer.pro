@@ -20,3 +20,4 @@ HEADERS  += mainwindow.h
 FORMS    += mainwindow.ui
 
 win32:RC_ICONS += icon.ico
+ICON = icon.icns
